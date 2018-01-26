@@ -1,0 +1,402 @@
+{
+    "locations": [
+        {
+            "id": "3dd50aaf-6b03-4497-b074-d81703f07ee8",
+            "name": "Sofia"
+        },
+        {
+            "id": "98c6857e-b0d1-4295-b89e-2d95a45437f2",
+            "name": "Plovdiv"
+        },
+        {
+            "id": "46ebd526-8839-476a-9ba0-8a9b2c07f3c3",
+            "name": "Varna"
+        },
+        {
+            "id": "89e13aa2-ba6d-4f55-9cc2-61eba6172c63",
+            "name": "Burgas"
+        }
+    ],
+    "locations-data": {
+        "3dd50aaf-6b03-4497-b074-d81703f07ee8": {
+            "location": {
+                "name": "Sofia",
+                "id": "3dd50aaf-6b03-4497-b074-d81703f07ee8"
+            },
+            "estates": [
+                {
+                    "id": 1,
+                    "refNumber": "00001",
+                    "region": "Lozenets",
+                    "type": "Apartment",
+                    "bedrooms": 2,
+                    "area": 100.50,
+                    "price": 100000,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00001.jpg?alt=media&token=e38caf86-3aa2-4306-b119-046bf0aaf63e",
+                    "address": "bul. 'Arsenalski' 25, 1421 g.k. Lozenets, Sofia",
+                    "latitude": 42.6780919,
+                    "longitude": 23.3188219
+                    
+                },
+                {
+                    "id": 2,
+                    "refNumber": "00002",
+                    "region": "Lozenets",
+                    "type": "House",
+                    "bedrooms": 3,
+                    "area": 243,
+                    "price": 320000,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00002.jpg?alt=media&token=9b17648c-3aed-4b53-9db7-603c21e1387b",
+                    "address": "blvd. 'James Bourchier' 16, 1164 g.k. Lozenets, Sofia",
+                    "latitude": 42.6755391,
+                    "longitude": 23.3287231
+                    
+                },
+                {
+                    "id": 3,
+                    "refNumber": "00003",
+                    "region": "Izgrev",
+                    "type": "Apartment",
+                    "bedrooms": 3,
+                    "area": 98.45,
+                    "price": 98000,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00003.jpg?alt=media&token=00194dee-df02-4a74-b54b-6ff0a56c7903",
+                    "address": "ulitsa 'Latinka' 40-46, 1113 g.k. Izgrev, Sofia",
+                    "latitude": 42.6707126,
+                    "longitude": 23.3449795
+                },
+                {
+                    "id": 5,
+                    "refNumber": "00005",
+                    "region": "Izgrev",
+                    "type": "House",
+                    "bedrooms": 4,
+                    "area": 320.00,
+                    "price": 900000,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00005.jpg?alt=media&token=3bc0d4fe-a76b-449d-a02f-64fcfb5191df",
+                    "address": "ul.'Elemag' 8-20, 1113 g.k. Izgrev, Sofia",
+                    "latitude": 42.6689851,
+                    "longitude": 23.3469594
+                },
+                {
+                    "id": 7,
+                    "refNumber": "00007",
+                    "region": "Izgrev",
+                    "type": "Apartment",
+                    "bedrooms": 3,
+                    "area": 103.25,
+                    "price": 120000,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00007.jpg?alt=media&token=a22dbfd0-2d55-4c75-b5d0-81e2f738e383",
+                    "address": "ul. 'Rusalya', 1113 g.k. Izgrev, Sofia",
+                    "latitude": 42.6691515,
+                    "longitude": 23.3449544
+                    
+                },
+                {
+                    "id": 8,
+                    "refNumber": "00008",
+                    "region": "Izgrev",
+                    "type": "Studio",
+                    "bedrooms": 1,
+                    "area": 35.00,
+                    "price": 48500,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00008.jpg?alt=media&token=11b5e310-4bda-43bf-a4ad-a4719e8c98bc",
+                    "address": "ul. 'General Shteryu Atanasov' 6-8, 1113 g.k. Izgrev, Sofia",
+                    "latitude": 42.6711482,
+                    "longitude": 23.3449038
+                },
+                {
+                    "id": 4,
+                    "refNumber": "00004",
+                    "region": "Iztok",
+                    "type": "Studio",
+                    "bedrooms": 1,
+                    "area": 45.25,
+                    "price": 55000,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00004.jpg?alt=media&token=0772e6cd-904c-412d-adfe-48f65579b6fc",
+                    "address": "ul. 'Frederic Joliot-Curie' 18, 1113 g.k. Iztok, Sofia",
+                    "latitude": 42.6720182,
+                    "longitude": 23.3496821
+                },
+                
+                {
+                    "id": 6,
+                    "refNumber": "00006",
+                    "region": "Mladost 2",
+                    "type": "Apartment",
+                    "bedrooms": 2,
+                    "area": 76.50,
+                    "price": 85000,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00006.jpg?alt=media&token=5c007092-4777-4751-bf3d-ba2142a14df7",
+                    "address": "Block 241, 1799 g.k. Mladost 2, Sofia",
+                    "latitude": 42.6449896,
+                    "longitude": 23.3671026
+                }
+                
+                
+            ]
+        },
+        "98c6857e-b0d1-4295-b89e-2d95a45437f2": {
+            "location": {
+                "name": "Plovdiv",
+                "id": "98c6857e-b0d1-4295-b89e-2d95a45437f2"
+            },
+            "estates": [
+                {
+                    "id": 9,
+                    "refNumber": "00009",
+                    "region": "Trakiya",
+                    "type": "Apartment",
+                    "bedrooms": 2,
+                    "area": 99.50,
+                    "price": 78000,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00009.jpg?alt=media&token=f0a18939-ed02-4a23-9f68-ef13ea795c98",
+                    "address": "ul. 'Maestro G. Atanasov' 82, 4023 'Panajot Volov', Plovdiv",
+                    "latitude": 42.1301222,
+                    "longitude": 24.78004
+
+                },
+                {
+                    "id": 10,
+                    "refNumber": "00010",
+                    "region": "Trakiya",
+                    "type": "Apartment",
+                    "bedrooms": 3,
+                    "area": 108.20,
+                    "price": 88000,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00010.jpg?alt=media&token=4b0b7c85-c092-4644-a542-461b23d5421b",
+                    "address": "Zh.K.Trakiya 202 4023 'Lulacite', Plovdiv",
+                    "latitude": 42.1290896,
+                    "longitude": 24.7744457
+
+                },
+                {
+                    "id": 11,
+                    "refNumber": "00011",
+                    "region": "Trakiya",
+                    "type": "House",
+                    "bedrooms": 4,
+                    "area": 245.00,
+                    "price": 120000,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00011.jpg?alt=media&token=3d3e8c1c-dd2b-4c6d-bfa0-b354ac65f57d",
+                    "address": "Zh.K.Trakiya 194А 4023 'Panajot Volov', Plovdiv",
+                    "latitude": 42.1296512,
+                    "longitude": 24.7770779
+                    
+                },
+                {
+                    "id": 12,
+                    "refNumber": "00012",
+                    "region": "Trakiya",
+                    "type": "House",
+                    "bedrooms": 3,
+                    "area": 198.00,
+                    "price": 111000,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00012.jpg?alt=media&token=9e35be34-cfc2-4894-89a0-3dedae27a38d",
+                    "address": "ul. 'Saedinenie' 209, 4023 'Lulacite', Plovdiv",
+                    "latitude": 42.1269493,
+                    "longitude": 24.7728714
+                    
+                },
+                {
+                    "id": 13,
+                    "refNumber": "00013",
+                    "region": "Western District",
+                    "type": "House",
+                    "bedrooms": 4,
+                    "area": 250.00,
+                    "price": 234000,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00013.jpg?alt=media&token=6e0826c4-6777-470d-be16-d103a74cf021",
+                    "address": "ul. 'Badeshte' 59-41, 4015 Proslav, Plovdiv",
+                    "latitude": 42.1215843,
+                    "longitude": 24.6885752
+                    
+                },
+                {
+                    "id": 14,
+                    "refNumber": "00014",
+                    "region": "Western District",
+                    "type": "House",
+                    "bedrooms": 2,
+                    "area": 120.00,
+                    "price": 75000,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00014.jpg?alt=media&token=d6e05015-804d-4e68-93a9-89241a1a0653",
+                    "address": "ul. 'Bitolya' 9, 4015 Proslav, Plovdiv ",
+                    "latitude": 42.1236911,
+                    "longitude": 24.6817237
+                    
+                },
+                {
+                    "id": 15,
+                    "refNumber": "00015",
+                    "region": "Western District",
+                    "type": "Apartment",
+                    "bedrooms": 2,
+                    "area": 75.55,
+                    "price": 55000,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00015.jpg?alt=media&token=0c298a01-456b-4858-b2e2-1c8af5fe1626",
+                    "address": "ul. 'Elin Pelin' 87, 4015 Proslav, Plovdiv",
+                    "latitude": 42.1174765,
+                    "longitude": 24.6851613
+                    
+                }
+            ]
+        },
+        "46ebd526-8839-476a-9ba0-8a9b2c07f3c3": {
+            "location": {
+                "name": "Varna",
+                "id": "46ebd526-8839-476a-9ba0-8a9b2c07f3c3"
+            },
+            "estates": [
+                {
+                    "id": 16,
+                    "refNumber": "00016",
+                    "region": "Center",
+                    "type": "Apartment",
+                    "bedrooms": 3,
+                    "area": 99.80,
+                    "price": 101000,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00016.jpg?alt=media&token=118bc9fc-269b-4d1f-bb61-aa8671db6b86",
+                    "address": "ul. 'Otets Paisiy' 42-44, 9000 Varna Center, Varna",
+                    "latitude": 43.2170998,
+                    "longitude": 27.9087292
+                    
+                },
+                {
+                    "id": 17,
+                    "refNumber": "00017",
+                    "region": "Center",
+                    "type": "Apartment",
+                    "bedrooms": 2,
+                    "area": 74.00,
+                    "price": 65000,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00017.jpg?alt=media&token=2924a1bb-264b-4fd8-9da8-13dcb896a736",
+                    "address": "ul. 'Makedonia' 124-126, 9000 Varna Center, Varna",
+                    "latitude": 43.2130861,
+                    "longitude": 27.9122168
+                    
+                },
+                {
+                    "id": 18,
+                    "refNumber": "00018",
+                    "region": "Center",
+                    "type": "Studio",
+                    "bedrooms": 1,
+                    "area": 41.00,
+                    "price": 29000,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00018.jpg?alt=media&token=f93f6877-3ded-4c05-b9f0-26e4639d6838",
+                    "address": "ul. 'Georgi S. Rakovski' 38-40, 9000 Varna Center, Varna",
+                    "latitude": 43.210511,
+                    "longitude": 27.9121269
+                    
+                },
+                {
+                    "id": 19,
+                    "refNumber": "00019",
+                    "region": "Center",
+                    "type": "Studio",
+                    "bedrooms": 1,
+                    "area": 32.88,
+                    "price": 27225,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00019.jpg?alt=media&token=1fba0a0e-b82f-40ab-b68e-84b2690c3dec",
+                    "address": "ul. 'Drin' 5-3, 9000 Varna Center, Varna",
+                    "latitude": 43.2107102,
+                    "longitude": 27.906253
+                    
+                },
+                {
+                    "id": 20,
+                    "refNumber": "00020",
+                    "region": "Chayka",
+                    "type": "Studio",
+                    "bedrooms": 1,
+                    "area": 46.18,
+                    "price": 21666,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00020.jpg?alt=media&token=c08d62d8-a8d9-4a94-b45e-b5a778e00cd6",
+                    "address": "bul. 'Aleksander Stamboliyski' 52, 9010 g.k. Chayka, Varna",
+                    "latitude": 43.2171257,
+                    "longitude": 27.9402059
+                    
+                },
+                {
+                    "id": 21,
+                    "refNumber": "000211",
+                    "region": "Chayka",
+                    "type": "Apartment",
+                    "bedrooms": 2,
+                    "area": 66.15,
+                    "price": 56890,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00021.jpg?alt=media&token=4ef7f842-e344-4e5b-bd30-234f00d838dd",
+                    "address": "g.k. Chayka, 7A, 9010 g.k. Chayka, Varna",
+                    "latitude": 43.2174804,
+                    "longitude": 27.9340946
+                    
+                }
+            ]
+        },
+        "89e13aa2-ba6d-4f55-9cc2-61eba6172c63": {
+            "location": {
+                "name": "Burgas",
+                "id": "89e13aa2-ba6d-4f55-9cc2-61eba6172c63"
+            },
+            "estates": [
+                {
+                    "id": 22,
+                    "refNumber": "00022",
+                    "region": "Lazur",
+                    "type": "Apartment",
+                    "bedrooms": 2,
+                    "area": 75.00,
+                    "price": 76000,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00022.jpg?alt=media&token=b1d8b82e-d7f3-4a0a-8813-921f7bce399a",
+                    "address": "ul. 'Kalofer' 21-27, 8001 g.k. Lazur, Burgas",
+                    "latitude": 42.5093196,
+                    "longitude": 27.4690113
+                    
+                },
+                {
+                    "id": 23,
+                    "refNumber": "00023",
+                    "region": "Lazur",
+                    "type": "House",
+                    "bedrooms": 4,
+                    "area": 150,
+                    "price": 120000,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00023.jpg?alt=media&token=896acfc0-d657-454b-89fc-eaa93011fc97",
+                    "address": "ul. 'Koprivshtitsa' 37, 8001 g.k. Lazur, Burgas",
+                    "latitude": 42.5097685,
+                    "longitude": 27.4738318
+                    
+                },
+                {
+                    "id": 24,
+                    "refNumber": "00024",
+                    "region": "Lazur",
+                    "type": "Apartment",
+                    "bedrooms": 3,
+                    "area": 91,
+                    "price": 98500,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00024.jpg?alt=media&token=6d5da850-a436-4801-bc60-b8cfaf390233",
+                    "address": "ul. 'Karlovo' 1-19, 8001 g.k. Lazur, Burgas",
+                    "latitude": 42.5071667,
+                    "longitude": 27.470127
+                    
+                },
+                {
+                    "id": 25,
+                    "refNumber": "00025",
+                    "region": "Zornitsa",
+                    "type": "Apartment",
+                    "bedrooms": 2,
+                    "area": 78.56,
+                    "price": 78400,
+                    "image": "https://firebasestorage.googleapis.com/v0/b/royal-estates-app.appspot.com/o/00025.jpg?alt=media&token=43e74354-d3d0-4169-80ad-bcaebf442e9f",
+                    "address": "g.k. Zornitsa 48, 8018 g.k. Zornitsa, Burgas",
+                    "latitude": 42.5153706,
+                    "longitude": 27.4623285
+                    
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,18 @@
+<ion-header>
+
+  <ion-navbar color="primary">
+    <ion-title>Map</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content>
+  <ion-fab left bottom #fab4>
+    <button ion-fab color="primary" class="fab">
+      <ion-icon name="navigate"></ion-icon></button>
+  </ion-fab>
+  <agm-map [latitude]="lat" [longitude]="lng">
+    <agm-marker [latitude]="lat" [longitude]="lng"></agm-marker>
+  </agm-map>
+</ion-content>

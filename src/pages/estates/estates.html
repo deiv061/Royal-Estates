@@ -1,0 +1,33 @@
+<!--
+  Generated template for the EstatesPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar color="primary">
+    <ion-title>estates</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <ion-list>
+    <ion-item *ngFor="let group of estates | groupBy:'region'">
+      <ion-navbar color="secondary">
+        <ion-title>{{ group[0] }}</ion-title>
+      </ion-navbar>
+      <ion-item *ngFor="let item of group[1]">
+        <ion-thumbnail item-start>
+          <img src="{{item.image}}">
+        </ion-thumbnail>
+        <h2>Ref No. {{item.refNumber}}</h2>
+        <p>{{item.type}}, {{item.bedrooms}} bedrooms</p>
+        <p>{{location.name}}, {{item.region}}</p>
+        <button ion-button clear item-end (click)="itemTapped($event, item)">View</button>
+      </ion-item>
+    </ion-item>
+  </ion-list>
+</ion-content>
